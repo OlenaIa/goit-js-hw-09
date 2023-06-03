@@ -56,7 +56,6 @@ const options = {
             });
             return;
         }
-        setTheTimer(deltaTime);
         
         startBtnRef.disabled = false;
     },
